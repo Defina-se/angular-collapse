@@ -1,0 +1,20 @@
+{
+  "name": "angular-collapse",
+  "version": "0.2.3",
+  "description": "ng-collapse directive for angular, providing customizable collapse animations",
+  "main": "angular-collapse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Defina-se/angular-collapse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Defina-se/angular-collapse/issues"
+  },
+  "homepage": "https://github.com/Defina-se/angular-collapse#readme"
+}
